@@ -1,0 +1,126 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px px;
+    /* position:fixed;
+    z-index: 1; */
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+
+}
+nav li :hover{
+border: 2px solbid white;
+}
+
+.image{
+    height: auto;
+    left: 0px;
+    width: 100px;
+    color: black;
+}
+.search{
+    float: center;
+    width: 60%;
+}
+input[type=text]{
+    padding: 20px;
+    margin-top: 13px;
+    border: none;
+    width: 90%;
+    height: 10%;
+}
+.search button{
+    padding: 20px;
+    margin-top: 10px;
+    color: aqua;
+    border: none;
+    cursor: pointer;
+}
+.menu {
+    width: 100%;
+    top padding : 100%;
+    padding: 2px;
+    /* position: fixed; */
+    list-style-type: none;
+    background-color: rgb(5, 41, 75);
+    display: flex;
+}
+.menu li{
+padding: 10px;
+}
+.menu li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.menu li:hover{
+border: 2px solid white;
+}
+.shop{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.flex-container{
+    width: 200%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding-left: 05%;
+    padding-right: 60%;
+    /* background-image: url(prime.jpg); */
+   
+    
+}
+.flex-box{
+    width: 300px;
+    height: 500px;
+   background: rgb(241, 236, 236);
+   color: rgb(0, 0, 0);
+  margin: 20px;
+}
+.carosel{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    margin: 10px;
+}
+.box{
+    width: 95%;
+    height: 350px;
+    background: rgb(238, 236, 236);
+    color: black;  
+    padding-left: 30px;
+}
+.container{
+    width: 200%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding-left: 05%;
+    padding-right: 60%;
+    
+}
+.flex-box{
+    width: 300px;
+    height: 400px;
+   background: rgb(238, 236, 236);
+   color: black;
+  margin: 20px;
+  font-style: normal;
+}
+img{
+    size: 20px;
+}
