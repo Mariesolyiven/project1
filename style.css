@@ -90,7 +90,7 @@ border: 2px solid white;
    color: rgb(0, 0, 0);
   margin: 20px;
 }
-.carosel{
+/* .carosel{
     width: 100%;
     height: auto;
     display: flex;
@@ -103,24 +103,50 @@ border: 2px solid white;
     background: rgb(238, 236, 236);
     color: black;  
     padding-left: 30px;
-}
+} */
 .container{
-    width: 200%;
+    width: 210%;
     height: auto;
     display: flex;
     margin: auto;
     padding-left: 05%;
-    padding-right: 60%;
+    padding-right: 70%;
     
 }
 .flex-box{
-    width: 300px;
+    width: 320px;
     height: 400px;
    background: rgb(238, 236, 236);
    color: black;
   margin: 20px;
   font-style: normal;
+  padding: 3px;
 }
-img{
-    size: 20px;
+.flex-box img{
+    max-width: 90%;
+    max-height: 120%;
+    align-content: auto;
+    padding: 3px;
 }
+
+ .flex-box h6{
+    color: rgb(7, 101, 129);
+ }
+ .flex-box h6:hover{
+    color: rgb(214, 82, 82);
+ }
+ .carosel{
+    width: 100%;
+    height: auto;
+ }
+ .box{
+    width: 100%;
+    height: 200px;
+    padding-left: 10%;
+   background: rgb(238, 236, 236);
+   color: black;
+  margin: 20px;
+  font-style: normal;
+  padding: 3px; 
+  padding-left: 02%;
+ }
