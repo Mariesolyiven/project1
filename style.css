@@ -169,7 +169,5 @@ border: 2px solid white;
     height: 35%;
     background-color: rgb(238, 236, 236);
     color: black;
- }
- @media only screen and {
-    
+    text-align: center;
  }
