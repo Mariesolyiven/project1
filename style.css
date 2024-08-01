@@ -175,7 +175,9 @@ border: 2px solid white;
  }
  .footer1 button{
     background-color: rgb(221, 221, 9);
-    width: 70px;
+    width: 100px;
+    box-sizing: border;
+    border-radius: 15px;
  }
 .footer1 h6{
     color: rgb(4, 108, 176);
@@ -184,7 +186,7 @@ border: 2px solid white;
     color: rgb(150, 5, 5);
 }
 .footer2{
-    background-color: rgb(5, 41, 75);
+    background-color: rgb(41, 134, 221);
     color: white;
     text-align: center;
 }
