@@ -189,6 +189,7 @@ border: 2px solid white;
     background-color: rgb(6, 61, 112);
     color: white;
     text-align: center;
+    height: 30px;
 }
 .footer2:hover{
     background-color: grey;
