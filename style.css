@@ -175,9 +175,9 @@ border: 2px solid white;
  }
  .footer1 button{
     background-color: rgb(221, 221, 9);
-    width: 130px;
+    width: 160px;
     box-sizing: border;
-    border-radius: 10px;
+    border-radius: 05px;
  }
 .footer1 h6{
     color: rgb(4, 108, 176);
