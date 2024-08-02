@@ -205,6 +205,8 @@ border: 2px solid white;
     list-style: none;
     float: left;
     text-decoration: none;
+    color: white;
+    padding-left: 30px;
 }
 .footer3 .row1 li a:hover{
     text-decoration: underline;
