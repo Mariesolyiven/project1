@@ -216,11 +216,11 @@ border: 2px solid white;
 .footer3 .row1 li a:hover{
     text-decoration: underline;
 }
-.footer3 .row2{
+.footer3 .row1{
     display: inline-block;
     float: left;
 }
-.footer3 .row2 li a{
+.footer3 .row1 li a{
     list-style: none;
     float: left;
     text-decoration: none;
@@ -228,6 +228,6 @@ border: 2px solid white;
     padding-left: 60px;
     padding: 4px;
 }
-.footer3 .row2 li a:hover{
+.footer3 .row1 li a:hover{
     text-decoration: underline;
 }
