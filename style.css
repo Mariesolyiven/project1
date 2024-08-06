@@ -239,7 +239,7 @@ border: 2px solid white;
 .footer4 .row{
     display: inline-block;
     float: left;
-    padding: 50px;
+    padding: 10px;
 }
 .footer4 .row ul{
     list-style-type: none;
