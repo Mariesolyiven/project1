@@ -238,7 +238,7 @@ border: 2px solid white;
 }
 .footer4 .row{
     display: inline-block;
-    /* float: left; */
+    float: left;
     padding: 50px;
 }
 .footer4 .row ul{
