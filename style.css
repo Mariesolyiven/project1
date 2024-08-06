@@ -241,6 +241,7 @@ border: 2px solid white;
     display: inline-block;
     float: left;
     padding: 10px;
+    text-align: center;
 }
 .footer4 .row ul{
     list-style-type: none;
