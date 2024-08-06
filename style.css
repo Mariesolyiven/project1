@@ -236,3 +236,23 @@ border: 2px solid white;
     background-color: black;
     color: white;
 }
+.footer4 .row{
+    display: inline-block;
+    float: left;
+    padding: 50px;
+}
+.footer4 .row ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer4 .row li a{
+    list-style: none;
+    float: left;
+    text-decoration: none;
+    color: white;
+    padding-left: 60px;
+    padding: 4px;
+}
+.footer4 .row li a:hover{
+    text-decoration: underline;
+}
