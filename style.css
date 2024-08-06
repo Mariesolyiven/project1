@@ -130,6 +130,7 @@ border: 2px solid white;
   margin: 20px;
   font-style: normal;
   padding: 3px;
+  padding-right: 10%;
 }
 .flex-box img{
     max-width: 100%;
