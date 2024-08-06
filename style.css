@@ -11,6 +11,7 @@ html,body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 nav{
     width: 100%;
@@ -203,7 +204,7 @@ border: 2px solid white;
 }
 .footer3 .row1{
     display: inline-block;
-    float: left;
+    /* float: left; */
     padding: 50px;
 }
 .footer3 ul li{
@@ -238,7 +239,7 @@ border: 2px solid white;
 }
 .footer4 .row{
     display: inline-block;
-    float: left;
+    /* float: left; */
     padding: 50px;
 }
 .footer4 .row ul{
