@@ -118,8 +118,7 @@ border: 2px solid white;
     height: auto;
     display: flex;
     margin: auto;
-    padding-left: 0%;
-    padding-right: 10%;
+    
     
 }
 .flex-box{
@@ -241,7 +240,6 @@ border: 2px solid white;
     display: inline-block;
     float: left;
     padding: 10px;
-    text-align: center;
 }
 .footer4 .row ul{
     list-style-type: none;
@@ -252,9 +250,10 @@ border: 2px solid white;
     float: left;
     text-decoration: none;
     color: white;
-    font-size: 17px;
-    padding-left: 60px;
-    padding: 4px;
+    font-size: 10px;
+    padding-left: 100px;
+    padding: 15px;
+    margin-left: 40px;
 }
 .footer4 .row li a:hover{
     text-decoration: underline;
