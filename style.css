@@ -18,12 +18,11 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 0px px;
-    /* position:fixed;
-    z-index: 1; */
     list-style-type: none;
     background-color: black;
     color: white;
     box-sizing: border-box;
+    font-size: 13px;
 
 }
 nav li :hover{
@@ -58,10 +57,10 @@ input[type=text]{
     width: 100%;
    padding-top: 100px;
     padding: 2px;
-    /* position: fixed; */
     list-style-type: none;
     background-color: rgb(5, 41, 75);
     display: flex;
+    font-size: 13px;
 }
 .menu li{
 padding: 10px;
